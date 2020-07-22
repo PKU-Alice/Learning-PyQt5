@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="978bcc00-de56-497c-b4a2-45d929528203" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="ddde875f-bca6-4147-a52e-e349462f02db" />
+  <component name="ProjectId" id="1dnUh35SRI4VArlS3B1GYBNIrl3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="Python.MultiWindows">
+    <configuration name="DockWidget" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DockWidget.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MultiWindows" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MultiWindows.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QColorDialog（用调色板设置文字颜色和背景颜色）" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QColorDialog（用调色板设置文字颜色和背景颜色）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QMessageBox（弹出对话框）" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QMessageBox（弹出对话框）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ToolBar（工具栏）" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ToolBar（工具栏）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MultiWindows" />
+        <item itemvalue="Python.ToolBar（工具栏）" />
+        <item itemvalue="Python.QColorDialog（用调色板设置文字颜色和背景颜色）" />
+        <item itemvalue="Python.DockWidget" />
+        <item itemvalue="Python.QMessageBox（弹出对话框）" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="978bcc00-de56-497c-b4a2-45d929528203" name="Default Changelist" comment="" />
+      <created>1593060466472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593060466472</updated>
+      <workItem from="1593060469039" duration="450000" />
+      <workItem from="1593071151498" duration="6000" />
+      <workItem from="1593073860511" duration="1690000" />
+      <workItem from="1593083180914" duration="41000" />
+      <workItem from="1593084857350" duration="141000" />
+      <workItem from="1593085038784" duration="904000" />
+      <workItem from="1593089188318" duration="1817000" />
+      <workItem from="1593092097219" duration="533000" />
+      <workItem from="1593172912098" duration="532000" />
+      <workItem from="1593243106804" duration="1547000" />
+      <workItem from="1593247677691" duration="343000" />
+      <workItem from="1593248087792" duration="4898000" />
+      <workItem from="1593256419582" duration="406000" />
+      <workItem from="1593314865103" duration="1136000" />
+      <workItem from="1593316110813" duration="105000" />
+      <workItem from="1593409652002" duration="1793000" />
+      <workItem from="1593422940646" duration="569000" />
+      <workItem from="1593491671411" duration="3712000" />
+      <workItem from="1593501220686" duration="1466000" />
+      <workItem from="1593510728714" duration="370000" />
+      <workItem from="1593511104144" duration="1524000" />
+      <workItem from="1593512845316" duration="2716000" />
+      <workItem from="1593525369817" duration="347000" />
+      <workItem from="1593589275941" duration="389000" />
+      <workItem from="1593589934049" duration="2950000" />
+      <workItem from="1593594744330" duration="1325000" />
+      <workItem from="1593603603185" duration="118000" />
+      <workItem from="1593931166536" duration="1795000" />
+      <workItem from="1593936937547" duration="412000" />
+      <workItem from="1593948594629" duration="4216000" />
+      <workItem from="1594100005971" duration="2299000" />
+      <workItem from="1594102569316" duration="701000" />
+      <workItem from="1594103689349" duration="211000" />
+      <workItem from="1594104016252" duration="208000" />
+      <workItem from="1594104362686" duration="2071000" />
+      <workItem from="1594109861490" duration="2459000" />
+      <workItem from="1594114913867" duration="4300000" />
+      <workItem from="1594121827729" duration="12000" />
+      <workItem from="1594124744572" duration="116000" />
+      <workItem from="1594125085764" duration="1316000" />
+      <workItem from="1594127336450" duration="533000" />
+      <workItem from="1594349835466" duration="1715000" />
+      <workItem from="1594359437523" duration="6411000" />
+      <workItem from="1594379166264" duration="1107000" />
+      <workItem from="1594391162859" duration="475000" />
+      <workItem from="1594611757875" duration="2205000" />
+      <workItem from="1594615850224" duration="190000" />
+      <workItem from="1594631968173" duration="2437000" />
+      <workItem from="1594892579274" duration="599000" />
+      <workItem from="1594906819819" duration="1068000" />
+      <workItem from="1594958729080" duration="4085000" />
+      <workItem from="1594971552611" duration="2160000" />
+      <workItem from="1594975088492" duration="553000" />
+      <workItem from="1594980680769" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="199" key="#com.intellij.tools.ToolEditorDialog" timestamp="1593086383559">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="667" y="199" key="#com.intellij.tools.ToolEditorDialog/0.23.1440.825@0.23.1440.825" timestamp="1593086383559" />
+    <state width="1398" height="161" key="GridCell.Tab.0.bottom" timestamp="1594979898042">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="188" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593525719522" />
+    <state width="1345" height="230" key="GridCell.Tab.0.bottom/0.23.1388.877@0.23.1388.877" timestamp="1593073946505" />
+    <state width="1398" height="161" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1594979898042" />
+    <state width="754" height="162" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1594379936347" />
+    <state width="1398" height="161" key="GridCell.Tab.0.center" timestamp="1594979898041">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="188" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593525719522" />
+    <state width="1345" height="230" key="GridCell.Tab.0.center/0.23.1388.877@0.23.1388.877" timestamp="1593073946504" />
+    <state width="1398" height="161" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1594979898041" />
+    <state width="754" height="162" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1594379936346" />
+    <state width="1398" height="161" key="GridCell.Tab.0.left" timestamp="1594979898041">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="188" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593525719521" />
+    <state width="1345" height="230" key="GridCell.Tab.0.left/0.23.1388.877@0.23.1388.877" timestamp="1593073946504" />
+    <state width="1398" height="161" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1594979898041" />
+    <state width="754" height="162" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1594379936346" />
+    <state width="1398" height="161" key="GridCell.Tab.0.right" timestamp="1594979898041">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="188" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593525719522" />
+    <state width="1345" height="230" key="GridCell.Tab.0.right/0.23.1388.877@0.23.1388.877" timestamp="1593073946504" />
+    <state width="1398" height="161" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1594979898041" />
+    <state width="754" height="162" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1594379936347" />
+    <state width="1398" height="263" key="GridCell.Tab.1.bottom" timestamp="1594973077110">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="263" key="GridCell.Tab.1.bottom/0.23.1440.823@0.23.1440.823" timestamp="1594973077110" />
+    <state width="851" height="264" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1594120136635" />
+    <state width="1398" height="263" key="GridCell.Tab.1.center" timestamp="1594973077110">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="263" key="GridCell.Tab.1.center/0.23.1440.823@0.23.1440.823" timestamp="1594973077110" />
+    <state width="851" height="264" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1594120136635" />
+    <state width="1398" height="263" key="GridCell.Tab.1.left" timestamp="1594973077110">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="263" key="GridCell.Tab.1.left/0.23.1440.823@0.23.1440.823" timestamp="1594973077110" />
+    <state width="851" height="264" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1594120136634" />
+    <state width="1398" height="263" key="GridCell.Tab.1.right" timestamp="1594973077110">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="263" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1594973077110" />
+    <state width="851" height="264" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1594120136635" />
+    <state x="318" y="96" key="SettingsEditor" timestamp="1594376506161">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="318" y="96" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1594376506161" />
+    <state x="704" y="223" width="597" height="625" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593090731482">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="704" y="223" width="597" height="625" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.825@0.23.1440.825" timestamp="1593090731482" />
+    <state x="385" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1594980680625">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="385" y="277" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1593589276212" />
+    <state x="371" y="294" key="com.intellij.ide.util.TipDialog/0.23.1388.877@0.23.1388.877" timestamp="1593073862789" />
+    <state x="385" y="276" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1594980680625" />
+    <state x="385" y="277" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1594349837470" />
+    <state x="674" y="172" width="670" height="675" key="search.everywhere.popup" timestamp="1594636117395">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="674" y="172" width="670" height="675" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1594636117395" />
+    <state x="674" y="172" width="670" height="676" key="search.everywhere.popup/0.23.1440.825@0.23.1440.825" timestamp="1593315145506" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$QuitApp.coverage" NAME="QuitApp（退出程序） Coverage Results" MODIFIED="1594373050192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$MultiWindows.coverage" NAME="MultiWindows Coverage Results" MODIFIED="1594976005846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$TableWidget.coverage" NAME="TableWidget Coverage Results" MODIFIED="1594372509133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$QStackWidget.coverage" NAME="QStackWidget Coverage Results" MODIFIED="1594969119909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$ClipBoard.coverage" NAME="ClipBoard Coverage Results" MODIFIED="1594126635642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$ListWidget.coverage" NAME="ListWidget Coverage Results" MODIFIED="1594968860792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$DataLocation.coverage" NAME="DataLocation Coverage Results" MODIFIED="1594359237349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$ModifyTree.coverage" NAME="ModifyTree Coverage Results" MODIFIED="1594636564549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$TabWidget.coverage" NAME="TabWidget Coverage Results" MODIFIED="1594966965473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$test.coverage" NAME="test Coverage Results" MODIFIED="1594104193877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$FillRect.coverage" NAME="FillRect Coverage Results" MODIFIED="1594127680561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$StatusBar.coverage" NAME="StatusBar（状态栏） Coverage Results" MODIFIED="1594360009607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$QInputDialogDemo.coverage" NAME="QInputDialogDemo Coverage Results" MODIFIED="1593937032073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$first.coverage" NAME="first Coverage Results" MODIFIED="1593593116760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$FirstMainWin.coverage" NAME="FirstMainWin Coverage Results" MODIFIED="1593593120883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$QLineEditValidator.coverage" NAME="QLineEditValidator（通过校验限定输入字符类型） Coverage Results" MODIFIED="1594116606579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$BasicTreeWidget.coverage" NAME="BasicTreeWidget（基础树控件） Coverage Results" MODIFIED="1594636975751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$ToolTips.coverage" NAME="ToolTips Coverage Results" MODIFIED="1593255838857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$TreeView.coverage" NAME="TreeView Coverage Results" MODIFIED="1594636818659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$QColorDialog.coverage" NAME="QColorDialog Coverage Results" MODIFIED="1594973079146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$QMessageBox.coverage" NAME="QMessageBox（弹出对话框） Coverage Results" MODIFIED="1594969267090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$CenterForm.coverage" NAME="QuitApp Coverage Results" MODIFIED="1593249468988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$TreeEvent.coverage" NAME="TreeEvent Coverage Results" MODIFIED="1594615214190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$Menu.coverage" NAME="Menu Coverage Results" MODIFIED="1594104377562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$DrapDrop.coverage" NAME="DrapDrop Coverage Results" MODIFIED="1594100554046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$ScreenGeometry.coverage" NAME="ScreenGeometry Coverage Results" MODIFIED="1594110586001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$demo.coverage" NAME="demo Coverage Results" MODIFIED="1593090683087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$DrawText.coverage" NAME="DrawText Coverage Results" MODIFIED="1593934565350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$TableView.coverage" NAME="TableView Coverage Results" MODIFIED="1594906856856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$run_demo.coverage" NAME="run Coverage Results" MODIFIED="1593090730732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$QSpinBoxDemo.coverage" NAME="QSpinBoxDemo Coverage Results" MODIFIED="1593936975576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$DockWidget.coverage" NAME="DockWidget Coverage Results" MODIFIED="1594971970488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$QPushButtonDemo.coverage" NAME="QPushButtonDemo Coverage Results" MODIFIED="1593594478326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$ListView.coverage" NAME="ListView Coverage Results" MODIFIED="1594968569650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$ToolBar.coverage" NAME="ToolBar（工具栏） Coverage Results" MODIFIED="1594975258890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$vertical_window.coverage" NAME="vertical_window Coverage Results" MODIFIED="1593090645151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/first$first.coverage" NAME="first Coverage Results" MODIFIED="1593082301936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$run.coverage" NAME="run Coverage Results" MODIFIED="1593092500517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$QDialogDemo.coverage" NAME="QDialogDemo Coverage Results" MODIFIED="1594111741332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$QFileDialogDemo.coverage" NAME="QFileDialogDemo Coverage Results" MODIFIED="1593937285980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_PyQt5$DrawAll.coverage" NAME="DrawAll Coverage Results" MODIFIED="1593948920272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
